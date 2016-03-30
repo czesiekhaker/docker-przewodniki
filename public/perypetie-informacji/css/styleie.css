@@ -1,0 +1,35 @@
+#oko {
+	background-image: url(../images/oko.png);
+}
+
+#logo a {
+	background-image: url(../images/panoptykon_logo.png);
+}
+
+body.glownaNiebieska #logo a {
+	background-image: url(../images/panoptykon_logo_b.png);
+}
+
+.navi .plus {
+   background-image: url(../images/plus_b.png);
+}
+
+body.glownaNiebieska .navi .plus {
+	background-image: url(../images/plus.png);
+}
+
+a.st#prev {
+	background-image: url(../images/str.png);
+}
+
+a.st#next {
+	background-image: url(../images/stl.png);
+}
+
+body.glownaNiebieska a.st#prev {
+	background-image: url(../images/str_n.png);
+}
+
+body.glownaNiebieska a.st#next {
+	background-image: url(../images/str_p_n.png);
+}

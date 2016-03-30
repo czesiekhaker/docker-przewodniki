@@ -1,0 +1,78 @@
+#wozekZLadunkiem.wGore {
+   transform:rotate(30deg);
+   -moz-transform:rotate(30deg);
+   -ms-transform:rotate(30deg);
+   -webkit-transform:rotate(30deg);
+	
+	-webkit-transform-origin: bottom right;
+     -moz-transform-origin: bottom right;
+      -ms-transform-origin: bottom right;
+       -o-transform-origin: bottom right;
+          transform-origin: bottom right;
+			 
+	-webkit-transition-property: -webkit-transform;
+   -webkit-transition-duration: 2s;
+   -moz-transition-property: -moz-transform;
+   -moz-transition-duration: 2s;
+   -ms-transition-property: -ms-transform;
+   -ms-transition-duration: 2s;
+   -o-transition-property: -o-transform;
+   -o-transition-duration: 2s;
+   transition-property: transform;
+   transition-duration: 2s;
+}
+
+#wozekZLadunkiem.wDol {
+   transform:rotate(0deg);
+   -moz-transform:rotate(0deg);
+   -ms-transform:rotate(0deg);
+   -webkit-transform:rotate(0deg);
+	
+	-webkit-transform-origin: bottom right;
+     -moz-transform-origin: bottom right;
+      -ms-transform-origin: bottom right;
+       -o-transform-origin: bottom right;
+          transform-origin: bottom right;
+			 
+	-webkit-transition-property: -webkit-transform;
+   -webkit-transition-duration: 2s;
+   -moz-transition-property: -moz-transform;
+   -moz-transition-duration: 2s;
+   -ms-transition-property: -ms-transform;
+   -ms-transition-duration: 2s;
+   -o-transition-property: -o-transform;
+   -o-transition-duration: 2s;
+   transition-property: transform;
+   transition-duration: 2s;
+}
+
+.wykresContainer {
+	position:relative;
+}
+
+.wykresContainer .slupek {
+	position:absolute;
+	width:33px;
+	background:#1a171b;
+	height:0px;
+}
+
+.wykresContainer .slupekZielony {
+	background:#00ff00;
+}
+
+.wykresContainer img.mobile {
+	display:none;
+}
+
+@media all and (max-width: 1000px) {
+	.wykresContainer img.standard {
+		display:none;
+	}
+	.wykresContainer img.mobile {
+		display:block;
+	}
+	.wykresContainer .slupek {
+		display:none;
+	}
+}

@@ -1,0 +1,326 @@
+.kameraLeft.wGore1 {
+   transform:rotate(-20deg);
+   -moz-transform:rotate(-20deg);
+   -ms-transform:rotate(-20deg);
+   -webkit-transform:rotate(-20deg);
+	
+	-webkit-transition-property: -webkit-transform;
+   -webkit-transition-duration: 4s;
+   -moz-transition-property: -moz-transform;
+   -moz-transition-duration: 4s;
+   -ms-transition-property: -ms-transform;
+   -ms-transition-duration: 4s;
+   -o-transition-property: -o-transform;
+   -o-transition-duration: 4s;
+   transition-property: transform;
+   transition-duration: 4s;
+}
+
+.kameraLeft.wGore2 {
+   transform:rotate(-10deg);
+   -moz-transform:rotate(-10deg);
+   -ms-transform:rotate(-10deg);
+   -webkit-transform:rotate(-10deg);
+	
+	-webkit-transition-property: -webkit-transform;
+   -webkit-transition-duration: 2s;
+   -moz-transition-property: -moz-transform;
+   -moz-transition-duration: 2s;
+   -ms-transition-property: -ms-transform;
+   -ms-transition-duration: 2s;
+   -o-transition-property: -o-transform;
+   -o-transition-duration: 2s;
+   transition-property: transform;
+   transition-duration: 2s;
+}
+
+.kameraLeft.wGore3 {
+   transform:rotate(-5deg);
+   -moz-transform:rotate(-5deg);
+   -ms-transform:rotate(-5deg);
+   -webkit-transform:rotate(-5deg);
+	
+	-webkit-transition-property: -webkit-transform;
+   -webkit-transition-duration: 2s;
+   -moz-transition-property: -moz-transform;
+   -moz-transition-duration: 2s;
+   -ms-transition-property: -ms-transform;
+   -ms-transition-duration: 2s;
+   -o-transition-property: -o-transform;
+   -o-transition-duration: 2s;
+   transition-property: transform;
+   transition-duration: 2s;
+}
+
+.kameraLeft.wDol1 {
+   transform:rotate(15deg);
+   -moz-transform:rotate(15deg);
+   -ms-transform:rotate(15deg);
+   -webkit-transform:rotate(15deg);
+	
+	-webkit-transition-property: -webkit-transform;
+   -webkit-transition-duration: 4s;
+   -moz-transition-property: -moz-transform;
+   -moz-transition-duration: 4s;
+   -ms-transition-property: -ms-transform;
+   -ms-transition-duration: 4s;
+   -o-transition-property: -o-transform;
+   -o-transition-duration: 4s;
+   transition-property: transform;
+   transition-duration: 4s;
+}
+
+.kameraLeft.wDol2 {
+   transform:rotate(10deg);
+   -moz-transform:rotate(10deg);
+   -ms-transform:rotate(10deg);
+   -webkit-transform:rotate(10deg);
+	
+	-webkit-transition-property: -webkit-transform;
+   -webkit-transition-duration: 2s;
+   -moz-transition-property: -moz-transform;
+   -moz-transition-duration: 2s;
+   -ms-transition-property: -ms-transform;
+   -ms-transition-duration: 2s;
+   -o-transition-property: -o-transform;
+   -o-transition-duration: 2s;
+   transition-property: transform;
+   transition-duration: 2s;
+}
+
+.kameraLeft.wDol3 {
+   transform:rotate(5deg);
+   -moz-transform:rotate(5deg);
+   -ms-transform:rotate(5deg);
+   -webkit-transform:rotate(5deg);
+	
+	-webkit-transition-property: -webkit-transform;
+   -webkit-transition-duration: 2s;
+   -moz-transition-property: -moz-transform;
+   -moz-transition-duration: 2s;
+   -ms-transition-property: -ms-transform;
+   -ms-transition-duration: 2s;
+   -o-transition-property: -o-transform;
+   -o-transition-duration: 2s;
+   transition-property: transform;
+   transition-duration: 2s;
+}
+
+.kameraRight.wGore1 {
+   transform:rotate(-20deg);
+   -moz-transform:rotate(-20deg);
+   -ms-transform:rotate(-20deg);
+   -webkit-transform:rotate(-20deg);
+	
+	-webkit-transition-property: -webkit-transform;
+   -webkit-transition-duration: 4s;
+   -moz-transition-property: -moz-transform;
+   -moz-transition-duration: 4s;
+   -ms-transition-property: -ms-transform;
+   -ms-transition-duration: 4s;
+   -o-transition-property: -o-transform;
+   -o-transition-duration: 4s;
+   transition-property: transform;
+   transition-duration: 4s;
+}
+
+.kameraRight.wGore2 {
+   transform:rotate(-10deg);
+   -moz-transform:rotate(-10deg);
+   -ms-transform:rotate(-10deg);
+   -webkit-transform:rotate(-10deg);
+	
+	-webkit-transition-property: -webkit-transform;
+   -webkit-transition-duration: 2s;
+   -moz-transition-property: -moz-transform;
+   -moz-transition-duration: 2s;
+   -ms-transition-property: -ms-transform;
+   -ms-transition-duration: 2s;
+   -o-transition-property: -o-transform;
+   -o-transition-duration: 2s;
+   transition-property: transform;
+   transition-duration: 2s;
+}
+
+.kameraRight.wGore3 {
+   transform:rotate(-5deg);
+   -moz-transform:rotate(-5deg);
+   -ms-transform:rotate(-5deg);
+   -webkit-transform:rotate(-5deg);
+	
+	-webkit-transition-property: -webkit-transform;
+   -webkit-transition-duration: 2s;
+   -moz-transition-property: -moz-transform;
+   -moz-transition-duration: 2s;
+   -ms-transition-property: -ms-transform;
+   -ms-transition-duration: 2s;
+   -o-transition-property: -o-transform;
+   -o-transition-duration: 2s;
+   transition-property: transform;
+   transition-duration: 2s;
+}
+
+.kameraRight.wDol1 {
+   transform:rotate(15deg);
+   -moz-transform:rotate(15deg);
+   -ms-transform:rotate(15deg);
+   -webkit-transform:rotate(15deg);
+	
+	-webkit-transition-property: -webkit-transform;
+   -webkit-transition-duration: 4s;
+   -moz-transition-property: -moz-transform;
+   -moz-transition-duration: 4s;
+   -ms-transition-property: -ms-transform;
+   -ms-transition-duration: 4s;
+   -o-transition-property: -o-transform;
+   -o-transition-duration: 4s;
+   transition-property: transform;
+   transition-duration: 4s;
+}
+
+.kameraRight.wDol2 {
+   transform:rotate(10deg);
+   -moz-transform:rotate(10deg);
+   -ms-transform:rotate(10deg);
+   -webkit-transform:rotate(10deg);
+	
+	-webkit-transition-property: -webkit-transform;
+   -webkit-transition-duration: 2s;
+   -moz-transition-property: -moz-transform;
+   -moz-transition-duration: 2s;
+   -ms-transition-property: -ms-transform;
+   -ms-transition-duration: 2s;
+   -o-transition-property: -o-transform;
+   -o-transition-duration: 2s;
+   transition-property: transform;
+   transition-duration: 2s;
+}
+
+.kameraRight.wDol3 {
+   transform:rotate(5deg);
+   -moz-transform:rotate(5deg);
+   -ms-transform:rotate(5deg);
+   -webkit-transform:rotate(5deg);
+	
+	-webkit-transition-property: -webkit-transform;
+   -webkit-transition-duration: 2s;
+   -moz-transition-property: -moz-transform;
+   -moz-transition-duration: 2s;
+   -ms-transition-property: -ms-transform;
+   -ms-transition-duration: 2s;
+   -o-transition-property: -o-transform;
+   -o-transition-duration: 2s;
+   transition-property: transform;
+   transition-duration: 2s;
+}
+
+#ogon.wGore {
+	transform:rotate(-10deg);
+   -moz-transform:rotate(-10deg);
+   -ms-transform:rotate(-10deg);
+   -webkit-transform:rotate(-10deg);
+	
+	-webkit-transition-property: -webkit-transform;
+   -webkit-transition-duration: 0.2s;
+   -moz-transition-property: -moz-transform;
+   -moz-transition-duration: 0.2s;
+   -ms-transition-property: -ms-transform;
+   -ms-transition-duration: 0.2s;
+   -o-transition-property: -o-transform;
+   -o-transition-duration: 0.2s;
+   transition-property: transform;
+   transition-duration: 0.2s;
+	
+	-webkit-transform-origin: bottom right;
+     -moz-transform-origin: bottom right;
+      -ms-transform-origin: bottom right;
+       -o-transform-origin: bottom right;
+          transform-origin: bottom right;
+}
+
+#ogon.wDol {
+	transform:rotate(10deg);
+   -moz-transform:rotate(10deg);
+   -ms-transform:rotate(10deg);
+   -webkit-transform:rotate(10deg);
+	
+	-webkit-transition-property: -webkit-transform;
+   -webkit-transition-duration: 0.2s;
+   -moz-transition-property: -moz-transform;
+   -moz-transition-duration: 0.2s;
+   -ms-transition-property: -ms-transform;
+   -ms-transition-duration: 0.2s;
+   -o-transition-property: -o-transform;
+   -o-transition-duration: 0.2s;
+   transition-property: transform;
+   transition-duration: 0.2s;
+	
+	-webkit-transform-origin: bottom right;
+     -moz-transform-origin: bottom right;
+      -ms-transform-origin: bottom right;
+       -o-transform-origin: bottom right;
+          transform-origin: bottom right;
+}
+
+#pytanie.pomniejszam {
+	transform:scale(0.05);
+   -moz-transform:scale(0.05);
+   -ms-transform:scale(0.05);
+   -webkit-transform:scale(0.05);
+	
+	-webkit-transition-property: -webkit-transform;
+   -webkit-transition-duration: 2s;
+   -moz-transition-property: -moz-transform;
+   -moz-transition-duration: 2s;
+   -ms-transition-property: -ms-transform;
+   -ms-transition-duration: 2s;
+   -o-transition-property: -o-transform;
+   -o-transition-duration: 2s;
+   transition-property: transform;
+   transition-duration: 2s;
+}
+
+#pytanie.powiekszam {
+	transform:scale(1);
+   -moz-transform:scale(1);
+   -ms-transform:scale(1);
+   -webkit-transform:scale(1);
+	
+	-webkit-transition-property: -webkit-transform;
+   -webkit-transition-duration: 2s;
+   -moz-transition-property: -moz-transform;
+   -moz-transition-duration: 2s;
+   -ms-transition-property: -ms-transform;
+   -ms-transition-duration: 2s;
+   -o-transition-property: -o-transform;
+   -o-transition-duration: 2s;
+   transition-property: transform;
+   transition-duration: 2s;
+}
+
+.wykresContainer {
+	position:relative;
+}
+
+.wykresContainer img.mobile {
+	display:none;
+}
+
+.wykresContainer .slupek {
+	position:absolute;
+	width:64px;
+	background:#FFFF00;
+	height:0px;
+}
+
+@media all and (max-width: 1000px) {
+	.wykresContainer img.standard {
+		display:none;
+	}
+	.wykresContainer img.mobile {
+		display:block;
+	}
+	.wykresContainer .slupek {
+		display:none;
+	}
+}
